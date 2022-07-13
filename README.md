@@ -12,4 +12,4 @@ Gyroscope puzzle-toy made with Raspberry Pi Zero, small 0.91''LCD OLED, MPU6050 
 YouTube: https://www.youtube.com/watch?v=5gYVdILnknY (Polish)
 
 ## Libraries
-All libraries was 
+All libraries were provided by free sources and were used and modified only for educational purpose.
